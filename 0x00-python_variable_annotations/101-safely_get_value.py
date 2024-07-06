@@ -12,4 +12,4 @@ def safely_get_value(
     if key in dct:
         return dct[key]
     else:
-        return default#!/usr/bin/python3
+        return default
